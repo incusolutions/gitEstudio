@@ -25,3 +25,5 @@ git checkout <nombre-de-la-rama>
 
 actualizar repo de la misma rama
 git pull <nombre-remoto>
+
+emiii
