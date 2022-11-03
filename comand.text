@@ -20,8 +20,30 @@ git branch --list
 Borrar rama
 git branch -d <nombre-de-la-rama>
 
+
 cambiarte de una rama a otra
 git checkout <nombre-de-la-rama>
+
+crear rama y estar 
+git checkout -b <nombre-de-tu-rama>
+
+El comando siguiente crea la rama <new-branch> basandose en <existing-branch> y se cambia a ＜new-branch＞ al instante
+git checkout -b ＜new-branch＞ ＜existing-branch＞
+
+git status
+
+git add <archivo>
+
+git commit -m "mensaje de confirmación"
+
+
+git push <nombre del repositorio> <nombre de la rama>
+
+
+# Sube los cambios en la rama 'main' a github
+git push origin main
+
+
 
 actualizar repo de la misma rama
 git pull <nombre-remoto>
