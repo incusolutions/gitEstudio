@@ -16,3 +16,6 @@ git branch -d <nombre-de-la-rama>
 
 cambiarte de una rama a otra
 git checkout <nombre-de-la-rama>
+
+actualizar repo de la misma rama
+git pull <nombre-remoto>
