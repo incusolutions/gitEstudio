@@ -13,3 +13,6 @@ git branch --list
 
 Borrar rama
 git branch -d <nombre-de-la-rama>
+
+cambiarte de una rama a otra
+git checkout <nombre-de-la-rama>
