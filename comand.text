@@ -47,3 +47,8 @@ git push origin main
 
 actualizar repo de la misma rama
 git pull <nombre-remoto>
+
+actualizar de otra rama
+git pull origin <rama>
+
+
