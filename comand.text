@@ -53,4 +53,5 @@ git pull origin <rama>
 
 nueva
 
-
+clonar rama
+git clone -b <branchname> <remote-repo-url>
